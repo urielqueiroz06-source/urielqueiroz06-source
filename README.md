@@ -1,9 +1,7 @@
 
-## Olá 👋
+## Olá bem-vindo ao meu perfil aqui encontrará um pouco sobre mim, e meus projetos.
 
-Aqui estão algumas ideias para você começar:
-- Atualmente estou trabalhando em Banco BRB
-- Atualmente estou aprendendo Analise e desenvolvimento de sistemas
-- Estou procurando ajuda com ...
-- Pergunte-me sobre ...
+-
+- Atualmente estou trabalhando em: em projetos Desevolvimento Front-End Para Web
+- Atualmente estou aprendendo: HTML, CSS, JAVA SCRIPT, MODELAGEM DE BANCO DE DADOS, ALGORITIMOS E PENSAMENTO COMPUTACIONAL
 - Como entrar em contato comigo: urielqueiroz06@gmail.com
